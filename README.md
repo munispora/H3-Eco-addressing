@@ -1,5 +1,5 @@
 # The Case for H3Geo and Bio-regional Eco-addressing 
-### ***by Thomas Cal - October 2021 Greenpaper / Greenpill ***
+### *** by Thomas Cal - October 2021 Greenpaper / Greenpill ***
 
 The planet can be mapped with a grid of hierarchical hexagons that is useful for geo locating specific places with less distortion then other methods
 why hexagons and not squares: [here](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/h-whyhexagons.htm) 
@@ -49,6 +49,7 @@ This is not the most user friendly way to reference a place
 
 An organisation called [Placekey](https://www.placekey.io/) has designed an addressing scheme based on h3 called what@where
 ![](https://i.imgur.com/p7O9MKn.png)
+
 Personally I still dont find this very user friendly
 
 ## Ecological address
