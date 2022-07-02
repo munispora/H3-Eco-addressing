@@ -88,15 +88,20 @@ Ideally we want the regeneration area to fit inside our eco-address, with H3 we 
 
 ## References
 why do we need a better way to geo locate https://www.geospatialworld.net/blogs/its-time-to-agree-on-a-universal-location-standard/
+
 https://h3geo.org/
 - Roberto Valenti for giving me the initial guidance and motivation to follow through on this work
 
 ## Regen mapping
 https://deck.gl/docs/api-reference/geo-layers/h3-hexagon-layer
+
 https://map.half-earthproject.org/
+
 https://www.restor.eco/
+
 https://www.space4good.com/
 
 ## Tools
 https://www.calculator.net/permutation-and-combination-calculator.html?cnv=44000&crv=2&x=70&y=27
+
 https://www.omnicalculator.com/math/hexagon#honeycomb-pattern-why-the-6-sided-shape-is-so-prevalent-in-nature
